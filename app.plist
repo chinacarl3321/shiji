@@ -1,0 +1,12 @@
+<dict>
+<key>bundle-identifier</key>
+<string>com.justep.x5.demo</string> //ipa包的应用包名Bundle ID
+<key>bundle-version</key>
+<string>1.1.1</string> //ipa包的版本号
+<key>kind</key>
+<string>software</string>
+<key>title</key>
+<string>shiji App download</string>
+<key>url</key>
+<string>http://www.tram666.com/shijicaipiaoapp.ipa</string>
+</dict>
